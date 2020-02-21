@@ -37,7 +37,7 @@ apps/ @octocat
 /docs/ @doctocat
 
 # Test for CODEOWNERS settings
-/codeowners @Tomom1-S
+/codeowners @Tomom1-S @hiroki-yoneda
 
 # Exclude a specific file/directory from codeowners
 /no_codeowners @github
