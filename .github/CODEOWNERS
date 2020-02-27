@@ -41,3 +41,4 @@ apps/ @octocat
 
 # Exclude a specific file/directory from codeowners
 no_codeowners/ @github
+/test.txt @github
