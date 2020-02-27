@@ -8,3 +8,5 @@ This is test for docs
 test01
 
 test02
+
+Now testing for CODEOWNERS setting
